@@ -5,3 +5,8 @@
 - 🌱 I’m currently learning as much as possible 😄
 - 👯 I’m looking to collaborate with other developers
 - 📫 How to reach me: brandonmdoris@yahoo.com
+
+
+---
+
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=notbrandx&theme=dracula)](https://github.com/notbrandx/github-readme-stats)
